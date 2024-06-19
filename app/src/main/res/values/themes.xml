@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tippy" parent="Theme.Material3.DayNight">
+
+<!-- Primary color -->
+ <item name="colorPrimary">@color/red</item>
+ <item name="colorPrimaryVariant">@color/black</item>
+
+<!-- Background Color -->
+        <item name="android:colorBackground">@color/red</item>
+
+    </style>
+
+    <style name="Theme.Tippy" parent="Base.Theme.Tippy" />
+</resources>

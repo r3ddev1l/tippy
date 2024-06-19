@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tippy</string>
+    <string name="baseLabel">Base</string>
+    <string name="tipLabel">Tip</string>
+    <string name="totalLabel">Total</string>
+    <string name="billAmountHint">Bill Amount</string>
+    <string name="footer">Made with ❤️ for Sweta</string>
+</resources>
